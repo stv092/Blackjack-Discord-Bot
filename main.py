@@ -141,5 +141,5 @@ async def on_message(message):
         await message.channel.send("Welcome to Blackjack! Use !play to start a game.")
 
 
-#Replace BOT_TOKEN with the token of your Discord bot
+#Replace BOT_TOKEN with the token of your Discord bot. I didn't put my bot's token here because I don't want my bot getting hacked. 
 client.run('BOT_TOKEN')  
